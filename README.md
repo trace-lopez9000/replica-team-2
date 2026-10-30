@@ -3,15 +3,15 @@
 Your team rebuilds a website from screenshots only: same content, same look. Your team's site will be live at
 `https://montverde-webdesign.github.io/<your-team-repo>/`
 
-## Our team
+## 2
 
 | Part | Owner | HTML | CSS files |
 | --- | --- | --- | --- |
-| A | [first name] | Between the PART A lines in `index.html` | `css/base.css` and `css/part-a.css` |
-| B | [first name] | Between the PART B lines in `index.html` | `css/part-b.css` |
-| C | [first name] | Between the PART C lines in `index.html` | `css/part-c.css` |
+| A | [Xavier] | Between the PART A lines in `index.html` | `css/base.css` and `css/part-a.css` |
+| B | [Ryu] | Between the PART B lines in `index.html` | `css/part-b.css` |
+| C | [Trace] | Between the PART C lines in `index.html` | `css/part-c.css` |
 
-Level: [1, 2, or 3]
+Level: [2]
 
 ## Your brief
 
